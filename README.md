@@ -1,4 +1,7 @@
-# movie_review
+# Sentiment analysis on movie_review
+
+Kaggle project link: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
+
 
 Steps to follow to run the code 
 
